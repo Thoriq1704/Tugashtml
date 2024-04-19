@@ -1,0 +1,108 @@
+.all{
+    background-image: url('/UIUX/Asset/Image/bg-satu.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: auto 10px;
+}
+
+.bodytext{
+    margin-top: 300px; 
+    text-align: center; 
+    justify-content: center;  
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.main_menu {
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    color: #341024;
+    font-size: 40px;
+}
+    
+.beranda {
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    list-style-type: none;
+    color: #ffffff;
+}
+    
+.tentang {
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    list-style-type: none;
+    color: #ffffff;
+}
+.login {
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 7px;
+    margin-left: 50px;
+    margin-right: 50px;
+    list-style-type: none; 
+    color: #ffffff;
+    border-style: solid;
+    border-color: #ffffff;
+    border-radius: 10px;
+    border-width: 5px;
+    width: 125px;
+    height: 45px;
+    border-spacing: 0;
+}
+    
+    
+.faq {
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    list-style-type: none;
+    color: #ffffff;
+}
+    
+.menu-button {
+    max-width: 60px;
+    max-height: 60px;
+    margin-left: 10px;
+    margin-right: 50px;
+    margin-top: 10px;
+    list-style-type: none;
+    float: right;
+}
+.menikmati_senja {
+    margin-top: 400px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 150px;
+    line-height: 100px;
+    color: #ffffff;
+}
+
+.ngopi {
+    text-align: center;
+    font-size: 35px;
+    line-height: 100px;
+    color: #ffffff;
+}
+
+.daftar{
+    background-color: #341024;
+    border: none;
+    color: #ffffff;
+    padding: 15px 40px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
